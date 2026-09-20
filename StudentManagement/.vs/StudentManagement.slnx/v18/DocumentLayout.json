@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\btvn\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\btvn\\studentmanagement\\studentmanagement\\controllers\\bai3_2_studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\bai3_2_studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\btvn\\studentmanagement\\studentmanagement\\controllers\\bai2_productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\bai2_productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\btvn\\studentmanagement\\studentmanagement\\controllers\\bai1_homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\bai1_homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\btvn\\studentmanagement\\studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\btvn\\studentmanagement\\studentmanagement\\models\\bai3_1_studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\bai3_1_studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\btvn\\studentmanagement\\studentmanagement\\views\\student\\bai3_3_info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\bai3_3_info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\btvn\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\btvn\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T12:35:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai3_3_Info.cshtml",
+              "DocumentMoniker": "D:\\btvn\\StudentManagement\\StudentManagement\\Views\\Student\\Bai3_3_Info.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Bai3_3_Info.cshtml",
+              "ToolTip": "D:\\btvn\\StudentManagement\\StudentManagement\\Views\\Student\\Bai3_3_Info.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Bai3_3_Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T05:11:38.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai3_2_StudentController.cs",
+              "DocumentMoniker": "D:\\btvn\\StudentManagement\\StudentManagement\\Controllers\\Bai3_2_StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\Bai3_2_StudentController.cs",
+              "ToolTip": "D:\\btvn\\StudentManagement\\StudentManagement\\Controllers\\Bai3_2_StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\Bai3_2_StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T05:09:45.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3_1_StudentModel.cs",
+              "DocumentMoniker": "D:\\btvn\\StudentManagement\\StudentManagement\\Models\\Bai3_1_StudentModel.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Bai3_1_StudentModel.cs",
+              "ToolTip": "D:\\btvn\\StudentManagement\\StudentManagement\\Models\\Bai3_1_StudentModel.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Bai3_1_StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T05:08:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2_ProductController.cs",
+              "DocumentMoniker": "D:\\btvn\\StudentManagement\\StudentManagement\\Controllers\\Bai2_ProductController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\Bai2_ProductController.cs",
+              "ToolTip": "D:\\btvn\\StudentManagement\\StudentManagement\\Controllers\\Bai2_ProductController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\Bai2_ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T05:06:52.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai1_HomeController.cs",
+              "DocumentMoniker": "D:\\btvn\\StudentManagement\\StudentManagement\\Controllers\\Bai1_HomeController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\Bai1_HomeController.cs",
+              "ToolTip": "D:\\btvn\\StudentManagement\\StudentManagement\\Controllers\\Bai1_HomeController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\Bai1_HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T04:55:07.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
