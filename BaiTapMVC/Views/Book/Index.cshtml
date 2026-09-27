@@ -1,0 +1,31 @@
+@model List<BaiTapMVC.Models.BookModel>
+@{
+    ViewData["Title"] = "Danh sách sách";
+}
+
+<h2>Bài 2 - Book Management</h2>
+<h3>Danh sách sách</h3>
+
+<a asp-controller="Book" asp-action="Create" class="btn btn-success" style="margin-bottom:10px; display:inline-block;">+ Thêm sách</a>
+
+<table class="table" border="1" cellpadding="6" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>@book.Id</td>
+            <td>@book.Name</td>
+            <td>@book.Price</td>
+            <td><a asp-controller="Book" asp-action="Detail" asp-route-id="@book.Id">Chi tiết</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

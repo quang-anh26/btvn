@@ -1,0 +1,14 @@
+@model BaiTapMVC.Models.BookModel
+@{
+    ViewData["Title"] = "Chi tiết sách";
+}
+
+<h2>Chi tiết sách</h2>
+
+<ul>
+    <li><strong>Id:</strong> @Model.Id</li>
+    <li><strong>Tên sách:</strong> @Model.Name</li>
+    <li><strong>Giá:</strong> @Model.Price</li>
+</ul>
+
+<a asp-controller="Book" asp-action="Index">&larr; Quay lại danh sách</a>

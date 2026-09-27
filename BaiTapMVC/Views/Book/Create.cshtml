@@ -1,0 +1,29 @@
+@model BaiTapMVC.Models.BookModel
+@{
+    ViewData["Title"] = "Thêm sách";
+}
+
+<h2>Thêm sách mới</h2>
+
+@if (ViewBag.Message != null)
+{
+    <div style="color:green; font-weight:bold;">@ViewBag.Message</div>
+}
+
+<form asp-controller="Book" asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name">Tên sách</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price">Giá</label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" style="color:red"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm</button>
+</form>
+
+<a asp-controller="Book" asp-action="Index">&larr; Quay lại danh sách</a>
+
+<partial name="_ValidationScriptsPartial" />
